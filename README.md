@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/65081425?s=400&u=71715323726b581d4d54d8f9c208efe97f32f44d&v=4" alt="John Kimiti">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
 <h1 align="center">Hello, I'm John Kimiti</h1>
@@ -28,5 +28,5 @@
 ## 💻 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkimkim&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true" alt="GitHub Stats">
 </p>
