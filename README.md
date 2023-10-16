@@ -27,6 +27,4 @@
 - **Hobbies** - `Reading`, `Coding`, `Gaming`, `Music`
 ## 💻 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkimkim&show_icons=true&count_private=true" alt="GitHub Stats">
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkimkim)](https://github.com/anuraghazra/github-readme-stats)
