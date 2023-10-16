@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/65081425?s=400&u=71715323726b581d4d54d8f9c208efe97f32f44d&v=4" alt="John Kimiti">
 </p>
 
-<h1 align="center">Hello, I'm Your Name</h1>
+<h1 align="center">Hello, I'm John Kimiti</h1>
 
 <p align="center">
   Software Developer | Open Source Enthusiast | Passionate Learner
