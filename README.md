@@ -28,5 +28,5 @@
 ## 💻 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkimkim&show_icons=true&count_private=true" alt="GitHub Stats">
 </p>
