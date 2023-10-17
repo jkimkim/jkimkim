@@ -30,3 +30,5 @@
 [![John's GitHub stats](https://github-readme-stats-alpha-gilt.vercel.app/api?username=jkimkim)](https://github.com/jkimkim)
 
 [![Top Langs](https://github-readme-stats-alpha-gilt.vercel.app/api/top-langs/?username=jkimkim&layout=compact)](https://github.com/jkimkim)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkimkim)](https://git.io/streak-stats)
