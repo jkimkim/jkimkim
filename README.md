@@ -25,6 +25,8 @@
 - **Others** - `Git`, `Heroku`, `Netlify`, `Firebase`
 - **Learning** - `TypeScript`, `GraphQL`, `Next.js`, `laravel`, `Django`,`AWS`, `Azure`
 - **Hobbies** - `Reading`, `Coding`, `Gaming`, `Music`
-## 💻 My GitHub Stats
+## 💻 My GitHub Stats and Top Languages
 
 [![John's GitHub stats](https://github-readme-stats-alpha-gilt.vercel.app/api?username=jkimkim)](https://github.com/jkimkim)
+
+[![Top Langs](https://github-readme-stats-alpha-gilt.vercel.app/api/top-langs/?username=jkimkim&layout=compact)](https://github.com/jkimkim)
