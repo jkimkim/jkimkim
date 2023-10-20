@@ -12,7 +12,7 @@
 
 - Twitter - [@Johnklm21](https://twitter.com/Johnklm21)
 - LinkedIn - [John Kimiti](https://www.linkedin.com/in/john-kimiti-9322201a2/)
-- Website - [John Kimiti](https://main.dun90xnopzyi2.amplifyapp.com/)
+- Website - [John Kimiti](https://portfolio.jkim.tech/)
 - Email - [John Kimiti](mailto:wairia21@gmail.com)
 
 ## 📚 My Skills
