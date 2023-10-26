@@ -31,4 +31,9 @@
 
 [![Top Langs](https://github-readme-stats-alpha-gilt.vercel.app/api/top-langs/?username=jkimkim&layout=compact)](https://github.com/jkimkim)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jkimkim)](https://git.io/streak-stats)
+<h3>Streak</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkimkim&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=jkimkim&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
