@@ -36,4 +36,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkimkim&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 </p>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=jkimkim&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in) -->
+ [![](https://visitcount.itsvg.in/api?id=jkimkim&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
