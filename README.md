@@ -39,6 +39,3 @@
  [![](https://visitcount.itsvg.in/api?id=jkimkim&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jkimkim&theme=onedark)](https://github.com/jkimkim)
